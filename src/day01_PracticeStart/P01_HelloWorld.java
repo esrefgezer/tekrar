@@ -6,6 +6,8 @@ public class P01_HelloWorld {
         System.out.print("Hello Wise --");
         System.out.println("Have a wise day");
         System.out.println("Hallo Belgie");
+        System.out.println("ilkler her zaman zordur");
+
     }
 }
 
